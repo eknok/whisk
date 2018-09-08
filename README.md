@@ -1,24 +1,28 @@
-# README
+# Whisk
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an WebApplication using AmazonRekognition to recognize people's stats in a table or graph .  
+これはAmazonRekognitionを利用して人の統計データを表やグラフに表すWebアプリケーションです。
 
-Things you may want to cover:
 
-* Ruby version
+## アーキテクチャ
+- Language
+ - Ruby
+ - JavaScript
+ - HTMLCSS
+- FrameWork
+ - Ruby on Rails
+ - React.js
+- インフラ
+ - AWS
+- DB
+ - MySQL(RDB)
+- 各種ツール
+ - Amazon Rekognition
+ - D3.js
+ - GitHub
 
-* System dependencies
+## 概要
 
-* Configuration
+## 工夫
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 今後の課題点
