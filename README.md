@@ -6,20 +6,20 @@ This is an WebApplication using AmazonRekognition to recognize people's stats in
 
 ## アーキテクチャ
 - Language
- - Ruby
- - JavaScript
- - HTMLCSS
+  - Ruby
+  - JavaScript
+  - HTMLCSS
 - FrameWork
- - Ruby on Rails
- - React.js
+  - Ruby on Rails
+  - React.js
 - インフラ
- - AWS
+  - AWS
 - DB
- - MySQL(RDB)
+  - MySQL(RDB)
 - 各種ツール
- - Amazon Rekognition
- - D3.js
- - GitHub
+  - Amazon Rekognition
+  - D3.js
+  - GitHub
 
 ## 概要
 
