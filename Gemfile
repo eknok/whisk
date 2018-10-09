@@ -33,6 +33,9 @@ gem 'jquery-rails'
 gem 'bootstrap'
 # 環境変数読み込み
 gem 'dotenv-rails'
+# deviseおよび各種gem
+gem 'devise'
+gem 'devise-bootstrap-views'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
