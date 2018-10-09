@@ -50,5 +50,4 @@ test:
 production:
   adapter: postgresql
   database: whisk_production
-  username: whisk
-  password: <%= ENV['WHISK_DATABASE_PASSWORD'] %>
+  encoding: utf8
