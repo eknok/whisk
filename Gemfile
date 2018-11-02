@@ -24,8 +24,6 @@ gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
 # --- add gem for Labo ----
-# amazon sdk for ruby
-gem 'aws-sdk'
 # layout
 gem 'jquery-rails'
 gem 'bootstrap'
