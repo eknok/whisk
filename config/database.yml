@@ -81,5 +81,4 @@ test:
 production:
   <<: *default
   database: whisk_production
-  username: whisk
-  password: <%= ENV['WHISK_DATABASE_PASSWORD'] %>
+  encoding: utf8
